@@ -19,4 +19,4 @@ In order to use this app for authentication, you have to use a browser that supp
 * Opera
 
 ## Login with external apps
-Once you enable U2F with Two Factor U2F, your aplications (for example your Android app or your GNOME app) will need to login using device passwords. To manage it, [know more here](https://docs.nextcloud.com/server/11/user_manual/session_management.html#managing-devices)
+Once you enable U2F with Two Factor U2F, your aplications (for example your Android app or your GNOME app) will need to login using device passwords. To manage it, [learn more here](https://docs.nextcloud.com/server/11/user_manual/session_management.html#managing-devices)
